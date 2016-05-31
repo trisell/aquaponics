@@ -1,5 +1,5 @@
 
-# Shipping Container Aeroponics Tube Design
+# Shipping Container Aquaponics Tube Design
 
 Centeralized plan to create a vertical aeroponics tube system. This system is designed to mimic the system in the [Freight Farms](http://www.freightfarms.com/ "Freight Farms"), but will be completely aeroponic. 
 
